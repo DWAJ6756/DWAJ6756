@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DWAJ6756
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Data science...
+- 🌱 I’m currently Improving myself in coding
 - 
 
 <!---
